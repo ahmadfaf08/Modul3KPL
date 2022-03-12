@@ -1,12 +1,13 @@
 ﻿using System;
 
+
 namespace KPL_1302200084_MOD3_RFL
 {
     class program
     {
         static void Main(string[] args)
         {
-            KodeBuah.getKodeBuah("Nama Buah", "   Kode Buah");
+            /***KodeBuah.getKodeBuah("Nama Buah", "   Kode Buah");
             KodeBuah.getKodeBuah("Apel\t", "\t A00");
             KodeBuah.getKodeBuah("Aprikot\t", "\t B00");
             KodeBuah.getKodeBuah("Alpukat\t", "\t C00");
@@ -20,7 +21,9 @@ namespace KPL_1302200084_MOD3_RFL
             KodeBuah.getKodeBuah("Durian\t", "\t L00");
             KodeBuah.getKodeBuah("Anggur\t", "\t M00");
             KodeBuah.getKodeBuah("Melon\t", "\t N00");
-            KodeBuah.getKodeBuah("Semangka\t", "O00");
+            KodeBuah.getKodeBuah("Semangka\t", "O00");***/
+
+            PosisiKarakterGame.Mulai();
         }
     }
 }
