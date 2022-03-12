@@ -1,0 +1,15 @@
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\bin\Debug\net6.0\KPL_1302200084_MOD3_RFL.exe
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\bin\Debug\net6.0\KPL_1302200084_MOD3_RFL.deps.json
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\bin\Debug\net6.0\KPL_1302200084_MOD3_RFL.runtimeconfig.json
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\bin\Debug\net6.0\KPL_1302200084_MOD3_RFL.dll
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\bin\Debug\net6.0\KPL_1302200084_MOD3_RFL.pdb
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.csproj.AssemblyReference.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.AssemblyInfoInputs.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.AssemblyInfo.cs
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.csproj.CoreCompileInputs.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.dll
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\refint\KPL_1302200084_MOD3_RFL.dll
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.pdb
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\KPL_1302200084_MOD3_RFL.genruntimeconfig.cache
+D:\.DATA PRAKTIKUM\Semester 4\Konstruksi Perangkan Lunak\Minggu 3\Modul\KPL_1302200084_MOD3_RFL\Modul3KPL\KPL_1302200084_MOD3_RFL\obj\Debug\net6.0\ref\KPL_1302200084_MOD3_RFL.dll
